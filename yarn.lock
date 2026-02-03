@@ -2268,25 +2268,10 @@ component-indexof@0.0.3:
   resolved "https://registry.npmmirror.com/component-indexof/-/component-indexof-0.0.3.tgz#11d091312239eb8f32c8f25ae9cb002ffe8d3c24"
   integrity sha512-puDQKvx/64HZXb4hBwIcvQLaLgux8o1CbWl39s41hrIIZDl1lJiD5jc22gj3RBeGK0ovxALDYpIbyjqDUUl0rw==
 
-compressing@^1.10.0:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/compressing/-/compressing-1.10.1.tgz#46f1cae6d8a1845e84a955239b419bac91c566a3"
-  integrity sha512-XXwUffcVjqv8NGSQu1ttp6eMmuZ3zZEAec28Rt30o/vkXE20jXhowRQ9LXLY4uOgFkxXrNzApLobpam53Dc1AA==
-  dependencies:
-    "@eggjs/yauzl" "^2.11.0"
-    flushwritable "^1.0.0"
-    get-ready "^1.0.0"
-    iconv-lite "^0.5.0"
-    mkdirp "^0.5.1"
-    pump "^3.0.0"
-    streamifier "^0.1.1"
-    tar-stream "^1.5.2"
-    yazl "^2.4.2"
-
-compressing@^1.6.2:
-  version "1.9.0"
-  resolved "https://registry.npmmirror.com/compressing/-/compressing-1.9.0.tgz#52400f0b3a7c6a56222461175a7e4d0ef2700fd3"
-  integrity sha512-WBNRH/mIV7aEFuYQFk4zCQZPEXDtyuCCeIcq5wYbmk5VewmUWV1YXAGyG6+hwrRGfG3HTy3c4BV79yfgloPJWQ==
+compressing@^1.10.0, compressing@^1.6.2:
+  version "1.10.4"
+  resolved "https://registry.yarnpkg.com/compressing/-/compressing-1.10.4.tgz#a26122c058b80146f8cbe22598903869a5b634e3"
+  integrity sha512-0gPqeoSNKM0wFq1GmihyLoRzxMsEn4fQo92Ttf8noe9X8U77U1DOvH4If5v6iF5TPa5sUyk5zWI0spoZJfzp2g==
   dependencies:
     "@eggjs/yauzl" "^2.11.0"
     flushwritable "^1.0.0"
